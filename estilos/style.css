@@ -18,8 +18,6 @@ body{
 main{
     position: relative;
     height: 100vh;
-    
-    
 } 
 section#telefone{
     background-color: blue;
@@ -31,7 +29,6 @@ section#telefone{
     width: 300px;
     background: transparent url(../imagens/frame-iphone.png) no-repeat;
     background-size: cover;
-    
 }
 iframe#tela{
     position: relative;
